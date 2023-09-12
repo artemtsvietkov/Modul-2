@@ -1,0 +1,37 @@
+img {
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+    float: right;
+    margin-block: 10px;
+}
+
+
+.name{
+    font-weight: bold;
+    float: top; 
+
+
+
+}
+
+p {
+    margin-bottom: 50px;
+
+}
+
+.header {
+    color: blue;
+
+}
+
+.header_topic {
+     color: green;
+     border: 4px outset red;
+     text-align: center;
+}
+
+.links {
+    text-align: center;
+
+}
